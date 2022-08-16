@@ -3,7 +3,7 @@ Repositório para armazenar todos os materiais da aula sobre programação do la
 
 ### Notebooks
 
-Dentro da pasta `notebooks`, estarão todos os notebooks que foram utilizados para a aula. Você pode importar eles no [Google Collab](https://colab.research.google.com) ou em qualquer outro ambiente que rode um notebook. 
+Dentro da pasta `notebooks`, estarão todos os notebooks que foram utilizados para a aula. Você pode importar eles no [Google Colab](https://colab.research.google.com) ou em qualquer outro ambiente que rode um notebook. 
 
 ### Referências
 
