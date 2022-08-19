@@ -15,3 +15,4 @@ Dentro da pasta `notebooks`, estarão todos os notebooks que foram utilizados pa
 * [Get Search Tweets API Reference](https://developer.twitter.com/en/docs/twitter-api/v1/tweets/search/api-reference/get-search-tweets)
 * [Twitter Search Operators](https://developer.twitter.com/en/docs/twitter-api/v1/rules-and-filtering/search-operators)
 * [Generating Word Cloud in Python](https://www.geeksforgeeks.org/generating-word-cloud-python/)
+* [Twitter POSTMAN Documentation](https://documenter.getpostman.com/view/9956214/T1LMiT5U#intro)
